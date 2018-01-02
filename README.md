@@ -4,7 +4,7 @@
 
 * Xcode 9.1
 
-### Generatus 
+## ⚡️Generatus⚡️
 Для более комфортной разработки вы можете использовать
 *Generatus: https://github.com/Ryasnoy/Generatus
 

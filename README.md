@@ -4,6 +4,11 @@
 
 * Xcode 9.1
 
+### Generatus 
+Для более комфортной разработки вы можете использовать
+*Generatus: https://github.com/Ryasnoy/Generatus
+
+
 ### High Level Layers
 
 #### MVP Concepts

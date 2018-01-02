@@ -94,5 +94,5 @@ https://github.com/FortechRomania/ios-mvp-clean-architecture/blob/master/readme.
 
 ### Перевод
 Oleg Ryasnoy
-Сообщество iOS Разработчиков в Telegram: t.me/devios
+Сообщество iOS Разработчиков в Telegram: https://t.me/devios
 

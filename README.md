@@ -6,6 +6,7 @@
 
 ## ⚡️Generatus⚡️
 Для более комфортной разработки вы можете использовать
+
 *Generatus: https://github.com/Ryasnoy/Generatus
 
 
@@ -94,6 +95,7 @@ https://github.com/FortechRomania/ios-mvp-clean-architecture/blob/master/readme.
 ### Информация
 
 Оригинал: - https://github.com/FortechRomania/ios-mvp-clean-architecture
+
 Если вы нашли ошибку, создайте issue или PR с исправлением.
 
 
